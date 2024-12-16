@@ -1,0 +1,22 @@
+# .NET specific
+bin/
+obj/
+TestResults/
+
+# Git
+.git
+.gitignore
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Documentation
+README.md
+*.md 
